@@ -1,0 +1,18 @@
+HTML Elements: 
+Normally any HTML Element will have Starting tag, Content and Closing tag.
+
+https://www.w3.org/TR/2011/WD-html-markup-20110113/elements.html
+https://www.w3.org/TR/2011/WD-html-markup-20110113/elements-by-function.html
+
+Void HTML Elements:
+Void HTML Elements will never have Content. They can have attributes.
+
+https://www.w3.org/TR/2011/WD-html-markup-20110113/syntax.html#void-element
+
+Web Design - Typography Standards:
+
+Body Font - 15px - 25px
+Main heading - 60px - 30px (When using higher font-size, use lower font-weight)
+Line Spacing - 120% - 150% of font size
+45-90 characters per line - Optimal line length to read
+Use Good Fonts - Sans-serif; 
